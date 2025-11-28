@@ -2,8 +2,6 @@
 
 I'm a Masters student at University of Surrey studying Computer Vision, Robotics & Machine Learning, aspiring to be an Machine Learning/Computer Vision Engineer.  
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on:
   - Plant disease classification - Fine-tuning modern CV Models such as EfficientNet with fastai and using techniques such as cross-validation and ensembling to try and maximise accuracy, the model takes images of apple leaves and classifies whether they're healthy, have multiple diseases or have rust or scab.
 - 🌱 I’m currently learning:
